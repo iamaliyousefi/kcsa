@@ -1,4 +1,4 @@
-# KCSA
+# Kubernetes and Cloud Native Security Associate (KCSA)
 
 ![alt text](kcsa_badge_new-300x300.png?raw=true)
 
