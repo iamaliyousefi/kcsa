@@ -1,4 +1,7 @@
-# kcsa
+# KCSA
+
+![alt text] (kcsa_badge_new-300x300.png?raw=true)
+
 Kubernetes and Cloud Native Security Associate (KCSA) is a new exam and certification by Linux Foundation. The schedule for the exam became available on March 1, 2024.
 As the name implies, this exam focuses on security and hardening aspects of Kubernetes clusters and cloud native applications which are based on containers.
 Since this exam is new and there are not many resources avaialable to study for it, I decided to create a list of resources which I found them useful:
